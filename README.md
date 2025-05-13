@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hi, I'm Himanshu Sharma
 
-<!--
-**republic-of-hackers/republic-of-hackers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Technical Lead**
 
-Here are some ideas to get you started:
+🔧 5+ years of experience crafting scalable backend systems, cloud-native microservices, and responsive frontends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Skilled in **Java, Spring Boot, Angular, AWS, Docker, Kubernetes**
+
+🧠 Passionate about clean architecture, performance optimization, and team mentorship.
+
+## 📫 Connect with Me
+
+📧 codehunny@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-sharma-geek/)  
+🌐 [HackerRank](https://www.hackerrank.com/profile/codehunny)
